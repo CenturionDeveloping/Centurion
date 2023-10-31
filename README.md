@@ -1,4 +1,3 @@
-# Centurion
-Centurion v1.0
+# Centurion CRM
 
 Čti mě
