@@ -10,4 +10,4 @@
 * Kontrola verze
 
 ## Změny
-* Změněna infrastruktura složek
+* Nová infrastruktura složek
