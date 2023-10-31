@@ -4,8 +4,8 @@
 
 
 ## Změny
-### Napojení na GitHub (Octokit)
-### Kontrola verze
-### Vytvořeny changelogy
-### Vytvořeno README.MD
-### Změněna infrastruktura složek
+* Napojení na GitHub (Octokit)
+* Kontrola verze
+* Vytvořeny changelogy
+* Vytvořeno README.MD
+* Změněna infrastruktura složek
