@@ -1,6 +1,9 @@
 # Centurion CRM
 
 ## Funkce
+* Uživatelské přihlášení
+* Systém notifikací a upozornění
+* Systém úrovní přístupu
 * Správa uživatelů
 * Přehled a správa zakázek
 * Přehled a správa zákazníků a kontaktů
