@@ -1,11 +1,13 @@
 # Changelog
 
-## [1.2.3.231031] (2023/10/31)
+## [v1.2.3.231031] (2023/10/31)
 
 
-## Změny
-* Napojení na GitHub (Octokit)
-* Kontrola verze
+## Novinky
 * Vytvořeny changelogy
 * Vytvořeno README.MD
+* Napojení na GitHub (Octokit)
+* Kontrola verze
+
+## Změny
 * Změněna infrastruktura složek
