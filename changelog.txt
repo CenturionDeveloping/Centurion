@@ -1,6 +1,15 @@
-VERSION 10005
+VERSION v1.2.3.231031
 
-Testovaci file
+# Changelog
+
+## [v1.2.3.231031] (2023/10/31)
 
 
-change ++
+## Novinky
+* Vytvořeny changelogy
+* Vytvořeno README.MD
+* Napojení na GitHub (Octokit)
+* Kontrola verze
+
+## Změny
+* Změněna infrastruktura složek
