@@ -12,4 +12,4 @@ VERSION v1.2.3.231031
 * Kontrola verze
 
 --- Změny ---
-* Změněna infrastruktura složek
+* Nová infrastruktura složek
