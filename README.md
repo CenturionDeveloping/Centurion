@@ -7,6 +7,7 @@
 * Správa uživatelů
 * Přehled a správa zakázek
 * Přehled a správa zákazníků a kontaktů
+* Automatické updaty
 
 ## Verzování
 
