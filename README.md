@@ -9,7 +9,7 @@
 * Přehled a správa zákazníků a kontaktů
 * Automatické updaty
 * Portable - Nevyžaduje instalaci
-* Systém firemních novinkek/upozornění
+* Systém firemních novinek/upozornění
 
 ## Verzování
 
