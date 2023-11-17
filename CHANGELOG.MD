@@ -8,6 +8,7 @@
 * Do balíčku byl přidán Updater.exe
 * Možnost auto-updatu - Program se updatuje na nejnovější verzi
 * Zakázky lze nyní zrušit
+* Přidán solution pro Traxart s.r.o.
 
 ## Změny
 * Zrušen changelog.txt na GitHub - nadbytečný
