@@ -1,5 +1,15 @@
 # Changelog
 
+## [v1.3.0.231117] (2023/11/17)
+
+
+## Novinky
+* Přidán systém updatů a notifikací o updatech
+* Do programu byl přidán Updater.exe
+* Možnost autoupdatu
+* Zakázky lze nyní zrušit
+
+
 ## [v1.2.3.231031] (2023/10/31)
 
 
