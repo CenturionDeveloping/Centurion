@@ -9,6 +9,9 @@
 * Možnost autoupdatu
 * Zakázky lze nyní zrušit
 
+## Změny
+* Zrušen changelog.txt pro nadbytečnost
+* Přidáno version.txt - kontrola verze programu
 
 ## [v1.2.3.231031] (2023/10/31)
 
