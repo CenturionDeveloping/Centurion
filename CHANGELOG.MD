@@ -5,8 +5,8 @@
 
 ## Novinky
 * Přidán systém updatů a notifikací o updatech
-* Do programu byl přidán Updater.exe
-* Možnost autoupdatu
+* Do balíčku byl přidán Updater.exe
+* Možnost auto-updatu - Program se updatuje na nejnovější verzi
 * Zakázky lze nyní zrušit
 
 ## Změny
