@@ -13,6 +13,7 @@
 ## Změny
 * Zrušen changelog.txt na GitHub - nadbytečný
 * Přidáno version.txt  na GitHub - kontrola verze programu
+* Revize infrastructury GitHub repositáře - odstraněno runtime, přidány solutions
 
 ## [v1.2.3.231031] (2023/10/31)
 
