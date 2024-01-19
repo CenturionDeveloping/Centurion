@@ -19,6 +19,7 @@
 ## Změny
 * Novinky v Dashboard jsou teď spravovány adminy a uživateli s vyšší třídou přístupu přímo v aplikaci
 * Redesign přehledu zakázky
+* Redesign barev - odstraněna většina AliceBlue
 
 ## Opraveno
 * Opravena tlačítka zpět
