@@ -28,6 +28,7 @@
 * Zdokumentováno vrstvení aplikace
 * Zdokumenotávno komentování kódu
 
+
 ## [v1.3.0.231117] (2023/11/17)
 
 
@@ -42,6 +43,7 @@
 * Zrušen changelog.txt na GitHub - nadbytečný
 * Přidáno version.txt na GitHub - kontrola verze programu
 * Revize infrastruktury GitHub repositáře - odstraněno runtime, přidány solutions
+
 
 ## [v1.2.3.231031] (2023/10/31)
 
