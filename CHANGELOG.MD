@@ -26,7 +26,7 @@
 
 ## Code
 * Zdokumentováno vrstvení aplikace
-* Zdokumenotávno komentování kódu
+* Zdokumentováno komentování kódu
 
 
 ## [v1.3.0.231117] (2023/11/17)
