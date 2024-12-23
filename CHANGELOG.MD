@@ -1,6 +1,39 @@
 # Changelog
 
 
+## [1.4.0.241223] (2024/12/23)
+
+
+## Novinky
+* Kompletní rework přehledu zakázek - Implementace historie, evidence, zadání zakázky a další...
+* Přidán Admin Hub - Správa aplikace, defaultních nastaveních a další...
+* Správce novinek - Nyní nabízí možnosti skrytí novinky a taky archivaci.
+* Přechod na NAS server
+* Aplikace nyní umí pracovat s dokumenty - další možnosti budou přidány v dalším releasu
+* Implementace serverového času - Zatím ve fázi testovaní kvůli přechodům na zimní-letní čas - time.windows.com
+* Implementace JSON modulu - Newtonsoft JSON
+* Implementace API modulu - Rest Sharp
+* Implementace iText7 modulu - Možnost generování PDF dokumentů
+* Implementace MySQL modulu - V souvislosti s přechodem na NAS
+* Bezpečnostní update - Obfuskace kódu, zabezpečení přihlašovacích tokenů skrz webové servery
+* Implementace testovacícho rozhraní - pouze pro testery
+
+## Změny
+* Zakázka > Výroba - kompletní rework sekcí
+* "Správa novinek" přejmenována no "Správce novinek"
+* Admin news teď čerpají data z GitHub stránky
+* Přechod na selektivní úrovně přístupu - momentálně ve fázi testování
+* Status zakázky "Zrušeno" je momentálně protected - nelze přejmenovat, ani smazat
+* Přehled zakázky - Kontakt je teď viditelný pro celou zakázku
+
+## Opraveno
+* Opraveny problémy s prvním přihlášením
+
+## Code
+* Oprava async funkcí
+* Rozdělení kódu na moduly, konstruktory a konektory - více v pracovní dokumentaci
+
+
 ## [v1.3.1.240119] (2024/01/19)
 
 
