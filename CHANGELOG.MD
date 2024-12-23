@@ -20,8 +20,8 @@
 
 ## Změny
 * Zakázka > Výroba - kompletní rework sekcí
-* "Správa novinek" přejmenována no "Správce novinek"
-* Admin news teď čerpají data z GitHub stránky
+* "Správa novinek" přejmenována na "Správce novinek"
+* Admin news v Dashboardu teď čerpají data z GitHub stránky
 * Přechod na selektivní úrovně přístupu - momentálně ve fázi testování
 * Status zakázky "Zrušeno" je momentálně protected - nelze přejmenovat, ani smazat
 * Přehled zakázky - Kontakt je teď viditelný pro celou zakázku
