@@ -3,9 +3,11 @@
 ## Funkce
 * Uživatelské přihlášení
 * Systém notifikací a upozornění
-* Systém vzestupných úrovní přístupu
+* Modulární úrovně přístupu
 * Správa uživatelů
 * Přehled a správa zakázek
+* Přehled a správa zaměstnanců
+* Výkaz práce zaměstnanců v reálném čase
 * Přehled a správa zákazníků a kontaktů
 * Automatické updaty
 * Portable - Nevyžaduje instalaci
