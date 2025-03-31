@@ -89,7 +89,7 @@
 * Zdokumentováno komentování kódu
 
 
-## [v1.3.0.231117] (2023/11/17)
+## [v1.3.0] (2023/11/17)
 
 
 ## Novinky
@@ -105,7 +105,7 @@
 * Revize infrastruktury GitHub repositáře - odstraněno runtime, přidány solutions
 
 
-## [v1.2.3.231031] (2023/10/31)
+## [v1.2.3] (2023/10/31)
 
 
 ## Novinky
