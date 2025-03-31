@@ -1,7 +1,33 @@
 # Changelog
 
 
-## [1.4.0.241223] (2024/12/23)
+## [1.4.1] (2025/03/31)
+
+
+## Novinky
+* Implementace managementu souborů
+* Implementace profilových obrázků - viditelné v různých sektorech. Každý uživatel si může změnit svůj profilový obrázek.
+* Implementace uploadu souboru - Drag and Drop + manualní výběr
+* Download alert - Upozornění o stahování souboru
+* Nabídky - Zakázky nyní mají své unikátní nabídky, které lze vytvářet, upravovat a rušit
+* Nabídky - Přidán přehled všech nabídek
+* Objednávky - Zakázky nyní mají své unikátní objednávky, které lze vytvářet, upravovat a rušit
+* Objednávky - Přidán přehled všech objednávek
+* Implementace základních daňových kalkulací
+
+## Změny
+* Rework Log Out tlačítka 
+* Rework seznamů - Nyní lze otevřít detaily jednotlivých itemů pouhým dvojklikem - viditelné v Zakázkách, Zákazních, Zaměstnancích a dalších sektorech
+* Přehled zakázky - přechod na modulární ukládání. Zakázka se ve většině případů ukládá okamžitě
+* Přehled zakázky - přechod na modulární loading. Zakázka načte pouze momentálně otevřené sektory. Tato funkce zmenší nároky na server i klientské zařízení.
+
+## Opraveno
+* Opraven přehled kontaktů - Kontakty lze přidávat, upravovat a mazat (Legacy feature)
+* Opraveno přidávání nových zákazníků
+* Opraven Přehled Instalace v Přehledu zakázky
+
+
+## [1.4.0] (2024/12/23)
 
 
 ## Novinky
@@ -19,12 +45,12 @@
 * Implementace testovacícho rozhraní - pouze pro testery
 
 ## Změny
-* Zakázka > Výroba - kompletní rework sekcí
-* "Správa novinek" přejmenována na "Správce novinek"
-* Admin news v Dashboardu teď čerpají data z GitHub stránky
+* Zakázka > Výroba - kompletní rework sekcí (Legacy feature)
+* "Správa novinek" přejmenována na "Správce novinek" (Legacy feature)
+* Admin news v Dashboardu teď čerpají data z GitHub stránky (Legacy feature)
 * Přechod na selektivní úrovně přístupu - momentálně ve fázi testování
-* Status zakázky "Zrušeno" je momentálně protected - nelze přejmenovat, ani smazat
-* Přehled zakázky - Kontakt je teď viditelný pro celou zakázku
+* Status zakázky "Zrušeno" je momentálně protected - nelze přejmenovat, ani smazat (Legacy feature)
+* Přehled zakázky - Kontakt je teď viditelný pro celou zakázku (Legacy feature)
 
 ## Opraveno
 * Opraveny problémy s prvním přihlášením
@@ -34,7 +60,7 @@
 * Rozdělení kódu na moduly, konstruktory a konektory - více v pracovní dokumentaci
 
 
-## [v1.3.1.240119] (2024/01/19)
+## [v1.3.1] (2024/01/19)
 
 
 ## Novinky
@@ -50,8 +76,8 @@
 * Přidán stažitelný balíček pro Traxart s.r.o.
 
 ## Změny
-* Novinky v Dashboard jsou teď spravovány adminy a uživateli s vyšší třídou přístupu přímo v aplikaci
-* Redesign přehledu zakázky
+* Novinky v Dashboard jsou teď spravovány adminy a uživateli s vyšší třídou přístupu přímo v aplikaci (Legacy feature)
+* Redesign přehledu zakázky (Legacy feature)
 * Redesign barev - odstraněna většina AliceBlue
 
 ## Opraveno
