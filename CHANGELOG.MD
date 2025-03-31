@@ -22,9 +22,10 @@
 * Přehled zakázky - přechod na modulární loading. Zakázka načte pouze momentálně otevřené sektory. Tato funkce zmenší nároky na server i klientské zařízení.
 
 ## Opraveno
-* Opraven přehled kontaktů - Kontakty lze přidávat, upravovat a mazat (Legacy feature)
+* Opraven Přehled kontaktů - Kontakty lze přidávat, upravovat a mazat (Legacy feature)
 * Opraveno přidávání nových zákazníků
 * Opraven Přehled Instalace v Přehledu zakázky
+
 
 
 ## [1.4.0] (2024/12/23)
@@ -60,6 +61,7 @@
 * Rozdělení kódu na moduly, konstruktory a konektory - více v pracovní dokumentaci
 
 
+
 ## [v1.3.1] (2024/01/19)
 
 
@@ -89,6 +91,7 @@
 * Zdokumentováno komentování kódu
 
 
+
 ## [v1.3.0] (2023/11/17)
 
 
@@ -103,6 +106,7 @@
 * Zrušen changelog.txt na GitHub - nadbytečný
 * Přidáno version.txt na GitHub - kontrola verze programu
 * Revize infrastruktury GitHub repositáře - odstraněno runtime, přidány solutions
+
 
 
 ## [v1.2.3] (2023/10/31)
