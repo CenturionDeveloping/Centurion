@@ -4,11 +4,15 @@
 * Uživatelské přihlášení
 * Systém notifikací a upozornění
 * Modulární úrovně přístupu
-* Správa uživatelů
-* Přehled a správa zakázek
-* Přehled a správa zaměstnanců
-* Výkaz práce zaměstnanců v reálném čase
+* Přehled a správa uživatelů
 * Přehled a správa zákazníků a kontaktů
+* Přehled a správa zakázek
+* Přehled a správa dokumentů
+* Přehled a správa skladu
+* Možnosti automatických upomínek
+* Možnosti dynamických nastavení a interakcí s jednotlivými položkami, dle individuálních potřeb organizace
+* Výkaz práce zaměstnanců v reálném čase
+* Přídavné moduly stavěné na míru
 * Automatické updaty
 * Portable - Nevyžaduje instalaci
 * Systém firemních novinek/upozornění
