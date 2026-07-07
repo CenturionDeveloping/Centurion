@@ -1,6 +1,64 @@
 # Changelog
 
 
+## [1.4.3] (2026/07/03)
+
+
+## Novinky
+* Implementace dynamického skladu
+* Implementace správce skladu
+* Implementace modularní přístupu
+* Implementace indikátorů upomínek do fakturací
+* Implementovány automatizační prvky
+
+## Změny
+* Změna verzování - přechod na standrdní sémantické verzování
+* Restrukturilaze GitHubu - Solutions jsou teď dohledatelné pouze v kategorii Releases
+* Consolidace vizuálních prvků
+* Zefektivnění SFTP funkcí
+* Zefektivnění MySQL funkcí
+
+## Opraveno
+* Zvýšena stabilita aplikace v jednotlivých segmentech
+* Opraveny nefunkční segmenty
+* Developující team přidal několik desítek pre-release testů
+
+
+## [1.4.2] (2026/01/31)
+
+
+## Novinky
+* Hlavní projekt je nyní označován jako "Obsidian" - Tohle je pouze změna názvu, která nemá efekt na žádný existující solution.
+* Spuštěn projekt Violet - Minimalistická verze applikace, sloužící převážne pro komunikaci s databází.
+* Implementován loading indikátor
+* Implementovány předávací protokoly
+* Implementovány 4 druhy fakturací - přijaté fakturace, přijatý zálohové fakturace, vydané fakturace, vydané zálohové fakturace
+* Implementována tvorba dokumentů - fakturace, předávací protokoly, objednávky, nabídky
+* Implementováno SSPR - možnost změny hesla
+* Implementován správce měny
+* Implementovány filtery
+* Implementován Unit testing - Implementace nemá žádný přímý vliv na solutiony a slouží pouze k efektivnějšímu developingu
+* Implementován modul Windows alertů
+* Přidán watchlist zakázek - uživatel má tak možnost sledovat zakázky, aniž by musel být určený jako jeden z pracovníku zakázky
+* Implementován výběr souborů
+* Implementován lightbox - modul nabízí možnost prohlédnout si standardní obrázky (.jpg, .png, atd) přímo v aplikaci.
+* Implementován modul číslování - slouží k automatickému číslování objektů všeho druhu (dokumenty, zakázky, kontakty, atd)
+
+## Změny
+* Kompletní tranzice pod MVVM strukturu GUI prvků
+* Historie přejmenovány na Audit Logy
+* Rework JSON modulu
+* Rozdělení projektové infrastruktury
+* Tlačítka zpět byla odebrána - momentální struktura applikace v této funkci nenabízí žádnou efektivitu
+* Centurion v1 ukončen - Prototyp projektu již pozbyl účelu
+* Rework správce novinek
+* Support zákaznických solutions byl odpojen od GitHubu a napojen na interní serverový systém - Tato změna nemá žádný efekt na support aplikace a slouží pouze pro zefektivnění přehledu incidentů a requestů
+
+## Opraveno
+* Opraveno množství funkcí a implementace asychnronních loadingů
+
+
+
 ## [1.4.1] (2025/03/31)
 
 
